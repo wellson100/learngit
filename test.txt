@@ -1,0 +1,4 @@
+<?php
+//Êä³öÎÄ×Ö
+echo "wellson test";
+?> 
